@@ -11,7 +11,7 @@
 </details>
 
 
-[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)](https://streamable.com/3hbijb)
+![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/logo/hijacking.jpg)
 =======================================================================================================
 
 
